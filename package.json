@@ -1,0 +1,11 @@
+{
+  "name": "phone-keyboard-translator",
+  "version": "1.0.0",
+  "description": "Translates a string of phone typed input to the corresponding phrase",
+  "main": "phone-translator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
